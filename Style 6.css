@@ -1,0 +1,110 @@
+.container-2{
+    max-width: 98rem;
+    margin: 0 auto;
+    padding: 0 2.2rem;
+}
+.heq5{
+    background-color: white;
+}
+.omen{
+    background-color: black;
+}
+.image-1{
+    background: url("The-Milky-Way_GettyImages-147851475\ small3.png") center no-repeat;
+    background-position: right;
+    background-size: 75%;
+}
+.image-2{
+    background: url("xS7Qh96PLNfp_16536x0_b9muqi8S\ small2.png") center no-repeat;
+    background-position: left;
+    background-size: 45%;
+}
+.title-center{
+    color: white;
+    text-align: left;
+    padding-top: 5.5rem;
+}
+.title-center-2{
+    color: white;
+    text-align: right;
+    padding-top: 5.5rem;
+}
+
+.title-heading-center{
+    font-size: 5.5rem;
+    line-height: 1.07143;
+    letter-spacing: -.005rem;
+}
+.sub-title-center{
+    font-size: 2.65rem;
+    margin-top: .6rem;
+    letter-spacing: .008rem;
+    font-weight: 400;
+}
+.information-center{
+    font-size: 1.7rem;
+    color: rgb(190, 186, 186);
+    margin-top: .68rem;
+}
+.cta-center{
+    text-align: left;
+    margin-top: 1.8rem;
+}
+.cta-center-2{
+    text-align: left;
+    margin-top: 1.8rem;
+}
+
+.cta-link-center{
+    color: #66bbff;
+    font-size: 2.1rem;
+    display: inline-block;
+}
+
+.cta-link-center:nth-child(2){
+    margin-left: 2.6rem;
+}
+
+.cta-link-center:hover{
+    border-bottom: 2px solid #66bbff;
+}
+.title-dark{
+    color: black;
+}
+.sub-title-darker{
+    color: black;
+}
+.cta-link-darker{
+    color: #0070c9;
+}
+.cta-link-darker:hover{
+    border-bottom-color: #0070c9;
+}
+
+.hero{
+    height: 69.2rem;
+    background-size: auto 73.6rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-top: .6rem solid white;
+    border-bottom: .6rem solid white;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.flex-container2{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.hero-2{
+    height: 69.2rem;
+    background-size: auto 73.6rem;
+    background-position: left;
+    background-repeat: no-repeat;
+    border-top: .6rem solid white;
+    border-bottom: .6rem solid white;
+    border-right: .6rem solid white;
+    border-left: .6rem solid white;
+    flex: 100%;
+}
